@@ -4,19 +4,12 @@ public class App {
     public static void main(String[] args) throws Exception {
         // tombola natalizia
 
-        /*  todo 1:
-        estrarre casualmente una serie di numeri dall'1 al 90 (non si può estrarre 2 volte lo stesso numero)
-        Visualizzare i numeri estratti
-
-        todo2:
+        /* todo2:
         - Generare ulteriori 15 numeri dall'1 al 90 diversi tra loro (che rappresentano la scheda della tombola).
         - I numeri della scheda devono essere visualizzati sullo schermo appena parte il programma
         - mano a mano che i numeri della parte 1 vengono estratti, bisogna evidenziare i numeri della scheda che corrispondono (ad esempio racchiudendoli tra parentesi quadre)
         - il programma termina quando tutti i numeri della scheda sono stati estratti (Tombola!)
 
-        for (int i = 0; i < dimensione; i++) {
-            percorso[i] = ostacoli[r.nextInt(ostacoli.length)];
-            System.out.println(percorso[i]);
         */
 
         Random r = new Random();
